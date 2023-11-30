@@ -13,7 +13,7 @@ To set up the chatbot, follow these steps:
 Clone the Repository:
 
 
-git clone https://github.com/your-username/educational-chatbot.git
+git clone [https://github.com/HrishikeshRajulu/Chatbot.git]
 Install Dependencies:
 Navigate to the project directory and install the required packages.
 
